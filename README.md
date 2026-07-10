@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,firebase,php,mysql,git,github,vscode,python,numpy,pandas,matplotlib,seaborn,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,firebase,php,mysql,git,github,vscode,python,numpy,pandas,matplotlib,seaborn,streamlit,plotly" />
 </p>
 
 **Currently Learning**
@@ -35,7 +35,7 @@ An intelligent e-commerce application featuring an AI Product Advisor that recom
 
 🔗 **Live Demo:** *https://velora-nu-virid.vercel.app/*
 
-🔗 **Repository:** *Add GitHub Repository Link*
+🔗 **Repository:** *https://github.com/shivambhardwajwebdev/Velora*
 
 ---
 

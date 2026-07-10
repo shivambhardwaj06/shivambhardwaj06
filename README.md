@@ -1,41 +1,103 @@
 # Hi, I'm Shivam Bhardwaj 👋
 
-🚀 Web Developer | HTML | TAILWINDCSS | JAVASCRIPT | React || Firebase  
-
-🎓 B.Tech CSE (2025–2029)  
-💡 Building premium digital experiences  
-
----
-
-## 🧠 Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, 
-- Tailwind CSS
-- Firebase, Firestore
-- PHP, MySQL
-- Git & GitHub
+🚀 Exploring Machine Learning, Generative AI & Full-Stack Web Development  
+🎓 B.Tech in Computer Science & Engineering (2025–2029)  
+💡 Passionate about building practical AI-powered applications and solving real-world problems through technology.
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Tech Stack
 
-### 🌟 Velora - Modern E-commerce website with AI Product Advisor 
-VITE | FIREBASE | GEMINI_AI | SERP_API 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,firebase,php,mysql,git,github,vscode,python,numpy,pandas,matplotlib,seaborn,streamlit" />
+</p>
 
-### 🌟 Zenith – AI Fashion Recommendation
-Personalized style recommendation system using Firebase Authentication & Firestore.
-
-### 🎨  Figma to Code
-Modern responsive hero section collection.
+**Currently Learning**
+- Machine Learning
+- Large Language Models (LLMs)
+- Prompt Engineering
+- React Ecosystem
+- Data Structures & Algorithms ( C++ )
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivambhardwajwebdev&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=shivambhardwajwebdev&theme=radical)
+## 🌟 Velora – AI-Powered E-commerce Platform
+
+An intelligent e-commerce application featuring an AI Product Advisor that recommends products based on user needs.
+
+**Tech Stack**
+- React (Vite)
+- Firebase
+- Gemini API
+- SerpAPI
+
+🔗 **Live Demo:** *https://velora-nu-virid.vercel.app/*
+
+🔗 **Repository:** *Add GitHub Repository Link*
+
 ---
 
-## 📫 Connect With Me
-📧 shiva.bhardwaj.mks@gmail.com  
-🔗 LinkedIn  - www.linkedin.com/in/shivambhardwaj2006
+## 🚁 Kongo – Future of Autonomous Intelligence
+
+A responsive company website showcasing autonomous UAV solutions, robotics, and AI-driven technologies.
+
+**Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
+- Hostinger
+- EmailJS
+
+🔗 **Live Demo:** *kongo.in*
+
+🔗 **Repository:** *https://github.com/shivambhardwajwebdev/Kongo*
+
+---
+
+## ❤️ Cardiac Heart Disease Prediction
+
+A machine learning project that predicts the likelihood of heart disease using multiple classification algorithms and compares their performance.
+
+**Tech Stack**
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Streamlit
+
+🔗 **Repository:** *https://github.com/shivambhardwajwebdev/DataScience/tree/main/ML/Capstone%20Project/Cardiac%20Diagnosis*
+
+---
+
+# 🤝 Open Source
+
+- Contributing to open-source projects on GitHub
+- Learning collaborative development through Pull Requests
+- Exploring beginner-friendly Python and Data Science contributions
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivambhardwajwebdev&show_icons=true&theme=radical" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=shivambhardwajwebdev&theme=radical" height="170"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** shiva.bhardwaj.mks@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/shivambhardwaj2006
+
+🌐 **GitHub:** https://github.com/shivambhardwajwebdev
+
+---
+
+⭐ *Always learning, always building.*

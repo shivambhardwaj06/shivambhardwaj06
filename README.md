@@ -9,7 +9,11 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,firebase,php,mysql,git,github,vscode,python,numpy,pandas,matplotlib,seaborn,streamlit,plotly" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,firebase,php,mysql,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,streamlit,plotly" />
 </p>
 
 **Currently Learning**

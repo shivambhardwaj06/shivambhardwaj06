@@ -87,7 +87,7 @@ A machine learning project that predicts the likelihood of heart disease using m
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shivambhardwajwebdev&theme=radical" height="170"/>
+<img src="https://streak-stats.demolab.com?user=shivambhardwaj06&theme=radical" height="170"/>
 </p>
 
 ---

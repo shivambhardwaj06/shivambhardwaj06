@@ -1,6 +1,4 @@
-# Hi, I'm Shivam Bhardwaj 👋
-
-🚀 Exploring Machine Learning, Generative AI & Full-Stack Web Development  
+# Hi, I'm Shivam Bhardwaj 👋 
 🎓 B.Tech in Computer Science & Engineering (2025–2029)  
 💡 Passionate about building practical AI-powered applications and solving real-world problems through technology.
 

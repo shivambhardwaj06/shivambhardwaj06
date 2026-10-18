@@ -37,7 +37,7 @@ An intelligent e-commerce application featuring an AI Product Advisor that recom
 
 🔗 **Live Demo:** *https://velora-nu-virid.vercel.app/*
 
-🔗 **Repository:** *https://github.com/shivambhardwajwebdev/Velora*
+🔗 **Repository:** *https://github.com/shivambhardwaj06/Velora*
 
 ---
 
@@ -54,7 +54,7 @@ A responsive company website showcasing autonomous UAV solutions, robotics, and 
 
 🔗 **Live Demo:** *kongo.in*
 
-🔗 **Repository:** *https://github.com/shivambhardwajwebdev/Kongo*
+🔗 **Repository:** *https://github.com/shivambhardwaj06/Kongo*
 
 ---
 
@@ -70,7 +70,7 @@ A machine learning project that predicts the likelihood of heart disease using m
 - Matplotlib
 - Streamlit
 
-🔗 **Repository:** *https://github.com/shivambhardwajwebdev/DataScience/tree/main/ML/Capstone%20Project/Cardiac%20Diagnosis*
+🔗 **Repository:** *https://github.com/shivambhardwaj06/DataScience/tree/main/ML/Capstone%20Project/Cardiac%20Diagnosis*
 
 ---
 
@@ -96,7 +96,7 @@ A machine learning project that predicts the likelihood of heart disease using m
 
 💼 **LinkedIn:** https://www.linkedin.com/in/shivambhardwaj2006
 
-🌐 **GitHub:** https://github.com/shivambhardwajwebdev
+🌐 **GitHub:** https://github.com/shivambhardwaj06
 
 ---
 
